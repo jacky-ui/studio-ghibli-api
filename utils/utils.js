@@ -7,3 +7,4 @@ function readMovieData() {
     return parsedMovieData;
 };
 
+module.exports = { readMovieData };
