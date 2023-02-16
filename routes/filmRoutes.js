@@ -8,14 +8,13 @@ router.get('/', (req, res) => {
     res.status(200).send(allFilms); 
 });
 
+// GET film data for specific film based on id provided from request
 router.get("/:filmId", (req, res) => {
-    console.log(req.params.filmId);
     const allFilms = utils.readMovieData();
     const selectedMovie = allFilms.find((film) => film.id === req.params.filmId);
-    console.log(selectedMovie);
 
     if( selectedMovie === undefined) {
-        console.log("not found")
+        res.status(404).send("Not found. Please double check URL endpoint");
     } else
     res.status(200).send("Specific film");
 });
