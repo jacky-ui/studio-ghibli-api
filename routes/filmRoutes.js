@@ -16,7 +16,7 @@ router.get("/:filmId", (req, res) => {
     if( selectedMovie === undefined) {
         res.status(404).send("Not found. Please double check URL endpoint");
     } else
-    res.status(200).send("Specific film");
+    res.status(200).send(selectedMovie);
 });
 
 module.exports = router;
