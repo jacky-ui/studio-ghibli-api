@@ -10,6 +10,9 @@ router.get('/', (req, res) => {
 
 router.get("/:filmId", (req, res) => {
     console.log(req.params.filmId);
+    const allFilms = utils.readMovieData();
+    const selectedMovie = allFilms.find((film) => film.id === req.params.filmId);
+    console.log(selectedMovie);
     res.status(200).send("Specific film");
 });
 
