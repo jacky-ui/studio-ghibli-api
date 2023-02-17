@@ -10,6 +10,7 @@ router.get('/', (req, res) => {
 
 // GET film data for specific film based on id provided from request
 router.get("/:filmId", (req, res) => {
+    console.log(req.ip);
     const allFilms = utils.readMovieData();
     const selectedMovie = allFilms.find((film) => film.id === req.params.filmId);
 
