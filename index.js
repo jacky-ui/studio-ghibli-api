@@ -6,7 +6,10 @@ const { PORT } = process.env;
 const filmRoutes = require('./routes/filmRoutes');
 const rateLimiterUsingThirdParty = require('./middleware/rateLimiter');
 
+// Middleware to handle rate limits
 app.use(rateLimiterUsingThirdParty);
+
+// Path/Route when request is being made
 app.use("/films", filmRoutes);
 
 app.listen(PORT, () => {
