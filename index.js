@@ -9,6 +9,13 @@ const rateLimiterUsingThirdParty = require('./middleware/rateLimiter');
 // Middleware to handle rate limits
 app.use(rateLimiterUsingThirdParty);
 
+// Something to console.log when requests are incoming
+app.use((_req, _res, next) => {
+    console.log("Incoming Request!");
+
+    next();
+})
+
 // Path/Route when request is being made
 app.use("/films", filmRoutes);
 
