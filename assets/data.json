@@ -100,6 +100,16 @@
         "releaseYear": "July 17, 1999"
     },
     {
+        "id": "a26b0478-af27-11ed-afa1-0242ac120002",
+        "movie": "Nausicaä of the Valley of the Wind",
+        "poster": "",
+        "genre": "Fantasy/Adventure",
+        "rating": "89%",
+        "synopsis": "Far in the future, after an apocalyptic conflict has devastated much of the world's ecosystem, the few surviving humans live in scattered semi-hospitable environments within what has become a 'toxic jungle.' Young Nausicaä lives in the arid Valley of the Wind and can communicate with the massive insects that populate the dangerous jungle. Under the guidance of the pensive veteran warrior, Lord Yupa, Nausicaä works to bring peace back to the ravaged planet.",
+        "director": "Hayao Miyazaki",
+        "releaseYear": "March 11, 1984"
+    },
+    {
         "id": "7271d63b-bfcd-4337-8a42-b41020bad78c",
         "movie": "Ocean Waves",
         "poster": "",

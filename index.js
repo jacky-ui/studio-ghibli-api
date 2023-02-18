@@ -9,6 +9,8 @@ const rateLimiterUsingThirdParty = require('./middleware/rateLimiter');
 // Middleware to handle rate limits
 app.use(rateLimiterUsingThirdParty);
 
+app.use(express.static("public"));
+
 // Something to console.log when requests are incoming
 app.use((_req, _res, next) => {
     console.log("Incoming Request!");
