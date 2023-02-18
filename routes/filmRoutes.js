@@ -16,4 +16,10 @@ router.get("/:filmId", (req, res) => {
     selectedMovie ? res.status(200).send(selectedMovie) : res.status(404).send("Not found. Please double check URL endpoint");
 });
 
+// GET film poster/image based on id provided from request
+router.get("/:filmId/poster", (req,res) => {
+    console.log("Right path");
+    res.status(200).send("Right path");
+});
+
 module.exports = router;
