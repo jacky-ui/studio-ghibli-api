@@ -8,3 +8,9 @@ This was made for a friend who wanted to create a project centered around Studio
   <li>Back-End: JavaScript, Node.js, Express.js</li>
   <li>Libraries: express-rate-limit</li>
 </ul>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,expres"/>
+  </a>
+</p>
