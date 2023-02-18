@@ -10,14 +10,10 @@ router.get('/', (req, res) => {
 
 // GET film data for specific film based on id provided from request
 router.get("/:filmId", (req, res) => {
-    console.log(req.ip);
     const allFilms = utils.readMovieData();
     const selectedMovie = allFilms.find((film) => film.id === req.params.filmId);
-
-    if( selectedMovie === undefined) {
-        res.status(404).send("Not found. Please double check URL endpoint");
-    } else
-    res.status(200).send(selectedMovie);
+    // Iternary Operator to check whether selectedMovie is true or false. False will send 404 Not Found
+    selectedMovie ? res.status(200).send(selectedMovie) : res.status(404).send("Not found. Please double check URL endpoint");
 });
 
 module.exports = router;
