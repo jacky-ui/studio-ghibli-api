@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const utils = require('../utils/utils');
 
+// Created a function that will compare film id from req.params.id. Help me stay DRY
 function grabMovieById(reqParamsId) {
     const allFilms = utils.readMovieData();
     const selectedMovie = allFilms.find((film) => film.id === reqParamsId);
@@ -24,10 +25,8 @@ router.get("/:filmId", (req, res) => {
 
 // GET film poster/image based on id provided from request
 router.get("/:filmId/poster", (req,res) => {
-    console.log(grabMovieById(req.params.filmId));
-    // // const allFilms = utils.readMovieData();
-    // // const selectedMovie = allFilms.find((film) => film.id === req.params.filmId);
-    // selectedMovie ? res.status(200).send(selectedMovie.poster) : res.status(404).send("Not found. Please double check URL endpoint");
+    const foundMovie = grabMovieById(req.params.filmId);
+    foundMovie ? res.status(200).send(foundMovie.poster) : res.status(404).send("Not found. Please double check URL endpoint");
 });
 
 module.exports = router;
