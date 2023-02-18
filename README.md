@@ -25,3 +25,17 @@ This API includes the following about Studio Ghibli films:
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,expres"/>
   </a>
 </p>
+
+### `Run and Install Locally`
+
+Clone the project in desired folder from the terminal
+
+    git clone https://github.com/jacky-ui/studio-ghibli-api.git
+
+Once cloned, you will need to insstall all the dependencies on the server side. This can be done by running the below commands in your terminal. Make sure you are in the project folder/directory
+
+    npm i
+    
+Finally, to run studio-ghibli-api you would have to open your IDE, open the project folder if it isn't already open, then:
+
+    npx index.js
