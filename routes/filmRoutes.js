@@ -34,4 +34,10 @@ router.get("/:filmId/genre", (req,res) => {
     foundMovie ? res.status(200).send(foundMovie.genre) : res.status(404).send("Not found. Please double check URL endpoint");
 });
 
+// GET film synopsis based on id provided from request
+router.get("/:filmId/synopsis", (req,res) => {
+    const foundMovie = grabMovieById(req.params.filmId);
+    foundMovie ? res.status(200).send(foundMovie.synopsis) : res.status(404).send("Not found. Please double check URL endpoint");
+});
+
 module.exports = router;
