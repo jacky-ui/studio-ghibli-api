@@ -9,7 +9,7 @@ This was made for a friend who wanted to create a project centered around Studio
   <li>Libraries: express-rate-limit</li>
 </ul>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,expres"/>
   </a>
