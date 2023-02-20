@@ -1,4 +1,11 @@
 {
+  "name": "studio-ghibli-api",
+  "description": "API for Studio Ghibli Films",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
