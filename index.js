@@ -2,8 +2,8 @@ const express = require('express');
 const cors = require('cors');
 const config = {headers: {'Access-Control-Allow-Origin': '*'}};
 const app = express();
-require('dotenv').config();
-const { PORT } = process.env.PORT || 3000;
+// require('dotenv').config();
+const PORT = process.env.PORT || 3000;
 const filmRoutes = require('./routes/filmRoutes');
 const rateLimiterUsingThirdParty = require('./middleware/rateLimiter');
 
