@@ -25,8 +25,9 @@ router.get("/:filmId", (req, res) => {
 // GET film poster/image based on id provided from request
 router.get("/:filmId/poster", (req,res) => {
     const foundMovie = grabMovieById(req.params.filmId);
-    console.log(foundMovie);
-    foundMovie ? res.status(200).sendFile(foundMovie.poster) : res.sendStatus(404).send("Not found. Please double check URL endpoint");
+    console.log(foundMovie.poster);
+    foundPoster = foundMovie.poster;
+    foundMovie ? res.status(200).sendFile(`https://long-tan-monkey-tutu.cyclic.app/images/${foundPoster}`) : res.sendStatus(404).send("Not found. Please double check URL endpoint");
 });
 
 // GET film genre based on id provided from requests
