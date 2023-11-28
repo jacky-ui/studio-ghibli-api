@@ -25,7 +25,9 @@ router.get("/:filmId", (req, res) => {
 // GET film poster/image based on id provided from request
 router.get("/:filmId/poster", (req,res) => {
     const foundMovie = grabMovieById(req.params.filmId);
-    foundMovie ? res.status(200).send(foundMovie.poster) : res.status(404).send("Not found. Please double check URL endpoint");
+    console.log(foundMovie.poster);
+    foundPoster = foundMovie.poster;
+    foundMovie ? res.status(200).sendFile(foundPoster, { root: "./assets/images/" }) : res.sendStatus(404).send("Not found. Please double check URL endpoint");
 });
 
 // GET film genre based on id provided from requests

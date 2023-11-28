@@ -2,7 +2,7 @@
     {
         "id": "a8e84fd7-92d4-4cf3-9786-e24c0bb1902c",
         "movie": "Arrietty",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/arrietty.jfif",
+        "poster": "arrietty.jfif",
         "genre": "Fantasy/Adventure",
         "rating": "94%",
         "synopsis": "Arrietty, a tiny teenager, lives with her parents in the recesses of a suburban home, unbeknown to the homeowner and housekeeper. Like others of her kind, Arrietty remains hidden from her human hosts, but occasionally ventures forth from beneath the floorboards to borrow sugar cubes and other supplies. A secret friendship forms when 12-year-old Shawn meets Arrietty, but their relationship could spell danger for Arrietty's family.",
@@ -12,7 +12,7 @@
     {
         "id": "9392a1ac-c076-44ab-9ade-307cbc508829",
         "movie": "Castle In The Sky",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/castle-in-the-sky.jpg",
+        "poster": "castle-in-the-sky.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "96%",
         "synopsis": "Young orphan Sheeta and her kidnapper, Col. Muska, are flying to a military prison when their plane is attacked by a gang of air pirates led by the matronly Dola. Escaping from a mid-air collision via a magic crystal around her neck, Sheeta meets fellow orphan Pazu and the pair join forces to discover the mystical floating city of Laputa while pursued by both Muska and the pirates, who lust for the city's myriad treasures.",
@@ -22,7 +22,7 @@
     {
         "id": "fe548ae2-956f-4f20-ba7c-f6ed10ca0a1e",
         "movie": "Earwig and The Witch",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/earwig-and-the-witch.jpg",
+        "poster": "earwig-and-the-witch.jpg",
         "genre": "Fantasy/Anime",
         "rating": "29%",
         "synopsis": "A headstrong orphan discovers a world of spells and potions while living with a selfish witch.",
@@ -32,7 +32,7 @@
     {
         "id": "1a4c837d-de2f-4c92-9b20-4bf8d25391d0",
         "movie": "From Up on Poppy Hill",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/from-up-a-poppy-hill.jpg",
+        "poster": "from-up-a-poppy-hill.jpg",
         "genre": "Fantasy/Romance",
         "rating": "87%",
         "synopsis": "It's 1963 and Japan is in the midst of swift modernisation, leaving behind the Second World War's painful memories and focusing on a brighter future, symbolised by the coming year's Tokyo Olympics.",
@@ -42,7 +42,7 @@
     {
         "id": "1e926733-d9d4-493e-8025-fbd761139795",
         "movie": "Grave of the Fireflies",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/grave-of-the-firefiles.jpg",
+        "poster": "grave-of-the-firefiles.jpg",
         "genre": "War/Drama",
         "rating": "100%",
         "synopsis": "A devastating meditation on the human cost of war, this animated tale follows Seita (Tsutomu Tatsumi), a teenager charged with the care of his younger sister, Setsuko (Ayano Shiraishi), after an American firebombing during World War II separates the two children from their parents. Their tale of survival is as heartbreaking as it is true to life. The siblings rely completely on each other and struggle against all odds to stay together and stay alive.",
@@ -52,7 +52,7 @@
     {
         "id": "da6c56b9-f17b-44ea-a446-39a0c85b63ca",
         "movie": "How Do You Love?",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/how-do-you-love.jpg",
+        "poster": "how-do-you-love.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "N/A",
         "synopsis": "How Do You Live? is an upcoming Japanese animated film written and directed by Hayao Miyazaki and produced by Studio Ghibli. It is inspired by the 1937 novel of the same name by Genzaburo Yoshino, but has an original story that is not a direct adaptation of the novel. It has been described as a 'big fantastical film'.",
@@ -62,7 +62,7 @@
     {
         "id": "d2ef3678-6d86-4668-b80a-31a6dea55e1f",
         "movie": "Howl's Moving Castle",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/howls-moving-castle.jpg",
+        "poster": "howls-moving-castle.jpg",
         "genre": "Fantasy/Family",
         "rating": "87%",
         "synopsis": "Sophie (Emily Mortimer) has an uneventful life at her late father's hat shop, but all that changes when she befriends wizard Howl (Christian Bale), who lives in a magical flying castle. However, the evil Witch of Waste (Lauren Bacall) takes issue with their budding relationship and casts a spell on young Sophie, which ages her prematurely. Now Howl must use all his magical talents to battle the jealous hag and return Sophie to her former youth and beauty.",
@@ -72,7 +72,7 @@
     {
         "id": "97adaaac-25ae-47fd-ac55-43ae0c86039b",
         "movie": "Kiki's Delivery Service",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/kikis-delievry-service.jpg",
+        "poster": "kikis-delievry-service.jpg",
         "genre": "Adventure/Family",
         "rating": "98%",
         "synopsis": "In this anime feature, 13-year-old Kiki moves to a seaside town with her talking cat, Jiji, to spend a year alone, in accordance with her village's tradition for witches in training. After learning to control her broomstick, Kiki sets up a flying courier service and soon becomes a fixture in the community. But when the insecure young witch begins questioning herself and loses her magic abilities, she must overcome her self-doubt to get her powers back.",
@@ -82,7 +82,7 @@
     {
         "id": "17299270-b54c-4310-a96d-b04a3259045b",
         "movie": "My Neighbor Totoro",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/my-neighbor-totoro.jpg",
+        "poster": "my-neighbor-totoro.jpg",
         "genre": "Fantasy/Family",
         "rating": "93%",
         "synopsis": "Schoolgirl Satsuke and her younger sister, Mei, as they settle into an old country house with their father and wait for their mother to recover from an illness in an area hospital. As the sisters explore their new home, they encounter and befriend playful spirits in their house and the nearby forest, most notably the massive cuddly creature known as Totoro.",
@@ -92,7 +92,7 @@
     {
         "id": "cb29c029-dd2b-4d78-8055-52983cc59f90",
         "movie": "My Neighbor the Yamadas",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/my-neighbor-the-yamadas.jpg",
+        "poster": "my-neighbor-the-yamadas.jpg",
         "genre": "Family/Comedy",
         "rating": "78%",
         "synopsis": "The Yamadas are a normal Japanese family. Father Takashi and his wife Matsuke argue over a TV remote control, Grandma Shige always brightens the day with her proverbs and daughter Nanoko likes to get lost in a shopping centre.",
@@ -102,7 +102,7 @@
     {
         "id": "a26b0478-af27-11ed-afa1-0242ac120002",
         "movie": "Nausicaä of the Valley of the Wind",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/nausicaä-of-the-valley-of-the-wind.jpg",
+        "poster": "nausicaä-of-the-valley-of-the-wind.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "89%",
         "synopsis": "Far in the future, after an apocalyptic conflict has devastated much of the world's ecosystem, the few surviving humans live in scattered semi-hospitable environments within what has become a 'toxic jungle.' Young Nausicaä lives in the arid Valley of the Wind and can communicate with the massive insects that populate the dangerous jungle. Under the guidance of the pensive veteran warrior, Lord Yupa, Nausicaä works to bring peace back to the ravaged planet.",
@@ -112,7 +112,7 @@
     {
         "id": "7271d63b-bfcd-4337-8a42-b41020bad78c",
         "movie": "Ocean Waves",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/ocean-waves.jpg",
+        "poster": "ocean-waves.jpg",
         "genre": "Drama/Romance",
         "rating": "89%",
         "synopsis": "As he journeys back from Tokyo to his high school for a reunion, Taku Morisaki recounts his memories of his school days, focussing in particular on a love triangle that developed between him and two of his friends.",
@@ -122,7 +122,7 @@
     {
         "id": "6a284a2f-5727-4b35-9e15-c06fd88629bf",
         "movie": "Only Yesterday",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/only-yesterday.jpg",
+        "poster": "only-yesterday.jpg",
         "genre": "Drama/Romance",
         "rating": "100%",
         "synopsis": "Unmarried career woman Taeko Okajima (Miki Imai) takes her first extended trip outside her native Tokyo when she travels to rural Yamagata to visit her sister's family during the annual safflower harvest. On the train, Taeko daydreams about her pre-adolescent self. As her vacation progresses, she has extended flashbacks about the frustrations and small pleasures of her childhood, and wonders if her stress-filled adult life is what the young Taeko would have wanted for herself.",
@@ -132,7 +132,7 @@
     {
         "id": "ff3303a7-7ab6-4bd4-a649-ada896e0e7a1",
         "movie": "Pom Poko",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/pom-poko.jpg",
+        "poster": "pom-poko.jpg",
         "genre": "Fantasy/Family",
         "rating": "86%",
         "synopsis": "Isao Takahata's film uses the tanuki, creatures of myth, as his heroes. Beloved folk-tale characters, they are viewed as bringers of fortune with shape-changing abilities. In this film, their forest home is threatened by urban development and, to save it, they must use all their supernatural talents.",
@@ -142,7 +142,7 @@
     {
         "id": "c83df666-3d6f-4af5-a38c-23a0cbc80158",
         "movie": "Ponyo",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/ponyo.jfif",
+        "poster": "ponyo.jfif",
         "genre": "Fantasy/Adventure",
         "rating": "91%",
         "synopsis": "During a forbidden excursion to see the surface world, a goldfish princess encounters a human boy named Sosuke, who gives her the name Ponyo. Ponyo longs to become human, and as her friendship with Sosuke grows, she becomes more humanlike. Ponyo's father brings her back to their ocean kingdom, but so strong is Ponyo's wish to live on the surface that she breaks free, and in the process, spills a collection of magical elixirs that endanger Sosuke's village.",
@@ -152,7 +152,7 @@
     {
         "id": "d274c1ca-7ecb-48b1-9028-086bb462e4ee",
         "movie": "Porco Rosso",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/porco-rosso.jpg",
+        "poster": "porco-rosso.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "95%",
         "synopsis": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso (Shuichiro Moriyama), a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo (Akemi Okamura) and his longtime friend Madame Gina (Tokiko Kato).",
@@ -162,7 +162,7 @@
     {
         "id": "d4022776-0617-4781-9860-d24453d856ab",
         "movie": "Princess Mononoke",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/princess-mononoke.jpg",
+        "poster": "princess-mononoke.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "93%",
         "synopsis": "In the 14th century, the harmony that humans, animals and gods have enjoyed begins to crumble. The protagonist, young Ashitaka - infected by an animal attack, seeks a cure from the deer-like god Shishigami. In his travels, he sees humans ravaging the earth, bringing down the wrath of wolf god Moro and his human companion Princess Mononoke. Hiskattempts to broker peace between her and the humans brings only conflict.",
@@ -172,7 +172,7 @@
     {
         "id": "6614e75d-fa9c-4d22-a19c-5fdfdb0a6eb5",
         "movie": "Spirited Away",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/spirited-away.jpg",
+        "poster": "spirited-away.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "97%",
         "synopsis": "In this animated feature by noted Japanese director Hayao Miyazaki, 10-year-old Chihiro (Rumi Hiiragi) and her parents (Takashi Naitô, Yasuko Sawaguchi) stumble upon a seemingly abandoned amusement park. After her mother and father are turned into giant pigs, Chihiro meets the mysterious Haku (Miyu Irino), who explains that the park is a resort for supernatural beings who need a break from their time spent in the earthly realm, and that she must work there to free herself and her parents.",
@@ -182,7 +182,7 @@
     {
         "id": "ef7be320-e6e6-4a52-8f73-0da903915ab6",
         "movie": "Tales from Earthsea",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/tales-from-earthsea.jpg",
+        "poster": "tales-from-earthsea.jpg",
         "genre": "Fantasy/Adventure",
         "rating": "40%",
         "synopsis": "In the land of Earthsea, a mysterious force threatens to plunge humanity into destruction and chaos. A powerful wizard named Sparrowhawk seeks the source of his world's imbalance, and along the way rescues a runaway prince named Arren. When Sparrowhawk's powers begin to weaken, he and Arren must join forces with a former priestess and her daughter to defeat an evil foe whose quest for immortality will destroy Earthsea.",
@@ -192,7 +192,7 @@
     {
         "id": "13deb0f1-5791-46a2-86cf-9605cba7b66c",
         "movie": "The Cat Returns",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/the-cat-returns.jpg",
+        "poster": "the-cat-returns.jpg",
         "genre": "Fantasy/Family",
         "rating": "88%",
         "synopsis": "High school student Haru (Chizuru Ikewaki) rescues a cat that was about to be run over by a truck and discovers the cat is actually a prince named Lune. Out of gratitude, Lune's father, the Cat King, asks her to marry Lune. Haru is brought to the Cat Kingdom, where she starts to develop feline features. When she is prevented from leaving, the Baron (Yoshihiko Hakamada) and Toto, two statues that have magically been given life, provide assistance in gaining her freedom.",
@@ -202,7 +202,7 @@
     {
         "id": "e1f4366e-171b-436c-80c7-c059058aad12",
         "movie": "The Tale of the Princess Kaguya",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/the-tale-of-princess-kaguya.jpg",
+        "poster": "the-tale-of-princess-kaguya.jpg",
         "genre": "Fantasy/Drama",
         "rating": "100%",
         "synopsis": "A tiny nymph found inside a bamboo stalk grows into a beautiful and desirable young woman, who orders her suitors to prove their love by completing a series of near-impossible tasks.",
@@ -212,7 +212,7 @@
     {
         "id": "b4233394-0c34-4f8c-b7b9-62dfe5e45aed",
         "movie": "The Wind Rises",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/the-wind-rises.jpg",
+        "poster": "the-wind-rises.jpg",
         "genre": "War/Romance",
         "rating": "88%",
         "synopsis": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi (Hideaki Anno), whose storied career includes the creation of the A6M World War II fighter plane.",
@@ -222,7 +222,7 @@
     {
         "id": "699d517b-8552-48ad-9dc6-113026805752",
         "movie": "When Marnie Was There",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/when-marnie-was-there.jpg",
+        "poster": "when-marnie-was-there.jpg",
         "genre": "Fantasy/Drama",
         "rating": "92%",
         "synopsis": "A young girl is sent to the country for health reasons, where she meets an unlikely friend in the form of Marnie, a young girl with flowing blonde hair. As the friendship unravels Marnie has closer ties to the protagonist than we might expect.",
@@ -232,7 +232,7 @@
     {
         "id": "5a0855e3-63de-45c6-bafb-043b9a52f4fb",
         "movie": "Whisper of the Heart",
-        "poster": "https://long-tan-monkey-tutu.cyclic.app/images/whisper-of-the-heart.jpg",
+        "poster": "whisper-of-the-heart.jpg",
         "genre": "Fantasy/Romance",
         "rating": "94%",
         "synopsis": "Based on the manga with the same title, this animated film follows Shizuku, an inquisitive young girl and a voracious reader, who longs to be a writer when she grows up. One day she notices that all of her library books have previously been taken out by one Seiji Amasawa. Amid chasing after a large cat, befriending an eccentric antiques dealer and writing her first novel, Shizuku aims to find this mysterious boy who may well be her soul mate.",
